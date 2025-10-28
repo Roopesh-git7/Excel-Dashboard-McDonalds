@@ -23,7 +23,3 @@ It was built using Microsoft Excel with advanced visualization and analytics too
   - Data Cleaning & Transformation  
   - Dashboard Design & Layout Optimization  
 
----
-
-
-![Dashboard Screenshot](mcd_dashboard.png)
